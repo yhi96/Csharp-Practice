@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.exe
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.deps.json
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.runtimeconfig.json
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\refint\06.DayOfWeek.dll
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.genruntimeconfig.cache
+C:\Users\Admin\source\repos\01.MarketPlace\06.DayOfWeek\obj\Debug\net6.0\ref\06.DayOfWeek.dll

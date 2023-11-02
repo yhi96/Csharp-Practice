@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\bin\Debug\net6.0\08.SortedNumber.exe
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\bin\Debug\net6.0\08.SortedNumber.deps.json
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\bin\Debug\net6.0\08.SortedNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\bin\Debug\net6.0\08.SortedNumber.dll
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\bin\Debug\net6.0\08.SortedNumber.pdb
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.dll
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\refint\08.SortedNumber.dll
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.pdb
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\08.SortedNumber.genruntimeconfig.cache
+C:\Users\Admin\source\repos\01.MarketPlace\08.SortedNumber\obj\Debug\net6.0\ref\08.SortedNumber.dll
